@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Nikhil A Mathew</h1>
 
-<!--
-**nikh-iam/nikh-iam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Nikhil A Mathew",
+  "bio": " Like to focused on building immersive and interactive experiences that explore new possibilities.",
+  "organizations": [
+    {
+      "name": "Triassic Solutions",
+      "role": "Software Engineer"
+    }
+  ],
+  "socials": {
+    "linkedIn": "NikhilAMathew",
+  },
+  "favorite_languages": [
+    "Python",
+    "TypeScript",
+    "ReactJS",
+    "NodeJS",
+    "Java",
+    "C++",
+    "BASH",
+    "C"
+  ],
+  "techs": [
+    "Flask",
+    "Django",
+    "FastAPI",
+    "Next.js",
+    "Express.js",
+    "MongoDB",
+    "Firebase",
+    "Redux",
+    "TailwindCSS"
+  ],
+  "interests": [
+    "UI/UX",
+    "ML/DL",
+  ],
+  "projects": [Explore the repos]
+}
+```
+Contact with me :) [Feel free to contact on email](mathewnikhil432@gmail.com)
